@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kgomegha-tech.github.io/kg-omegha-website/sitemap.xml
